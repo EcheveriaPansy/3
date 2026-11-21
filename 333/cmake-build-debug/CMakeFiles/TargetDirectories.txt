@@ -1,0 +1,3 @@
+C:/CLion_Project/STM32/333/cmake-build-debug/CMakeFiles/222.elf.dir
+C:/CLion_Project/STM32/333/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CLion_Project/STM32/333/cmake-build-debug/CMakeFiles/rebuild_cache.dir

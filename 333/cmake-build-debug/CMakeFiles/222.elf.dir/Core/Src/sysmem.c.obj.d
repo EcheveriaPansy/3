@@ -1,0 +1,20 @@
+CMakeFiles/222.elf.dir/Core/Src/sysmem.c.obj: \
+ C:\CLion_Project\STM32\333\Core\Src\sysmem.c \
+ c:\clion2~1.2\arm\arm-none-eabi\include\errno.h \
+ c:\clion2~1.2\arm\arm-none-eabi\include\sys\errno.h \
+ c:\clion2~1.2\arm\arm-none-eabi\include\sys\reent.h \
+ c:\clion2~1.2\arm\arm-none-eabi\include\_ansi.h \
+ c:\clion2~1.2\arm\arm-none-eabi\include\newlib.h \
+ c:\clion2~1.2\arm\arm-none-eabi\include\_newlib_version.h \
+ c:\clion2~1.2\arm\arm-none-eabi\include\sys\config.h \
+ c:\clion2~1.2\arm\arm-none-eabi\include\machine\ieeefp.h \
+ c:\clion2~1.2\arm\arm-none-eabi\include\sys\features.h \
+ c:\clion2~1.2\arm\lib\gcc\arm-none-eabi\10.3.1\include\stddef.h \
+ c:\clion2~1.2\arm\arm-none-eabi\include\sys\_types.h \
+ c:\clion2~1.2\arm\arm-none-eabi\include\machine\_types.h \
+ c:\clion2~1.2\arm\arm-none-eabi\include\machine\_default_types.h \
+ c:\clion2~1.2\arm\arm-none-eabi\include\sys\lock.h \
+ c:\clion2~1.2\arm\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h \
+ c:\clion2~1.2\arm\arm-none-eabi\include\stdint.h \
+ c:\clion2~1.2\arm\arm-none-eabi\include\sys\_intsup.h \
+ c:\clion2~1.2\arm\arm-none-eabi\include\sys\_stdint.h
